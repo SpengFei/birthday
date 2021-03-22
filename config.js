@@ -28,16 +28,20 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
+        "今天是2021.3.22": "./imgs/h.jpg",
+        "姑且叫你一声张子杨姐姐": "./imgs/shencai.jpg",
         "美丽的子杨姐": "./imgs/shencai.jpg",
         "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
-        "有性感的身材": "./imgs/yao.jpg",
+        "很开心": "./imgs/b.jpg",
+        "在那个夜晚": "./imgs/f.jpg",
+        "能遇见你": "./imgs/e.jpg",
+        "这几天与你聊天": "./imgs/yao.jpg",
+        "真的很开心": "./imgs/yao.jpg",
+        "真心的祝愿你": "./imgs/yao.jpg",
+        "今后可以与遇见一个真正爱你的和你爱的人": "./imgs/a.jpg",
+        "我不在乎这个人是不是我": "./imgs/yao.jpg",
+        "我只希望你能一直永远的自信！开心！和幸福！": "./imgs/c.jpg",
+        "生日快乐！子杨姐！": "./imgs/g.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
